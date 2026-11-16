@@ -2,6 +2,8 @@
 
 Play chess or checkers on an interactive 3D board. Share a device in **Pass & Play** mode or choose **Vs AI** to play against the computer.
 
+[Open Chesk on GitHub Pages](https://cryaothicc.github.io/Chesk/)
+
 ## Run locally
 
 Open `index.html` in a browser with WebGL support. No install or build step is needed. Keep an internet connection so the page can load its libraries from CDNs.
