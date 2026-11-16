@@ -13,5 +13,3 @@ Open `index.html` in a browser with WebGL support. No install or build step is n
 - Drag to rotate the board. Use the game controls to switch modes or reset the match.
 
 The board uses Three.js and OrbitControls. Chess rules use chess.js, and animations use GSAP.
-
-<img src="circle.svg" width="100%" alt="">
